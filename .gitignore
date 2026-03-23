@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# PyTorch / outputs
+checkpoint.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
