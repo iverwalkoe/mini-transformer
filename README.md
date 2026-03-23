@@ -19,7 +19,7 @@ This project demonstrates the core components of transformer-based language mode
 
 Run the project instantly in your browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/mini-transformer-pytorch/blob/main/notebooks/transformer_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iverwalkoe/mini-transformer-pytorch/blob/main/notebooks/transformer_demo.ipynb)
 
 ---
 
