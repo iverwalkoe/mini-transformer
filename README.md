@@ -1,25 +1,29 @@
-# mini-transformer
-
 # Mini Transformer Language Model in PyTorch
 
 A compact character-level transformer language model implemented from scratch in PyTorch.
 
-This project was built to understand the core mechanics of transformer-based language models, including:
+This project demonstrates the core components of transformer-based language models, including:
 
 - token embeddings
 - positional embeddings
 - masked self-attention
 - multi-head attention
-- feed-forward blocks
+- feed-forward layers
 - residual connections
 - layer normalization
 - autoregressive text generation
 
-## Why this project
+---
 
-This implementation is intentionally small and readable. The goal is not to train a large model, but to understand how transformer language models work end-to-end.
+## 🚀 Try it in Google Colab
 
-## Project structure
+Run the project instantly in your browser:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/mini-transformer-pytorch/blob/main/notebooks/transformer_demo.ipynb)
+
+---
+
+## 📂 Project Structure
 
 ```text
 mini-transformer-pytorch/
@@ -29,6 +33,9 @@ mini-transformer-pytorch/
 ├── data.py
 ├── model.py
 ├── train.py
-└── generate.py
-
-
+├── generate.py
+├── data/
+│   └── input.txt
+├── notebooks/
+│   └── transformer_demo.ipynb
+└── outputs/
